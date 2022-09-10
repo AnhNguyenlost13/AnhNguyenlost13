@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You may call me Anh Nguyen.
+
+Usually bored, sometimes mess around with [Geyser](https://github.com/GeyserMC/Geyser) and other stuff
