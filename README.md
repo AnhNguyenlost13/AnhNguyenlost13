@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You may call me Anh Nguyen.
+You may call me Anh Nguyen. Find me on Discord: `AnhNguyen#7472`
 
-Usually bored, sometimes mess around with [Geyser](https://github.com/GeyserMC/Geyser) and other stuff
+🤔 Usually bored, sometimes mess around with [Geyser](https://github.com/GeyserMC/Geyser) and other stuff
 
-I also edit [DuckOS](https://github.com/DuckOS-GitHub/DuckOS)'s README page a lot.
+📝 I also edit [DuckOS](https://github.com/DuckOS-GitHub/DuckOS)'s README page a lot.
