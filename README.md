@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 You may call me Anh Nguyen.
 
 Usually bored, sometimes mess around with [Geyser](https://github.com/GeyserMC/Geyser) and other stuff
+
+I also edit [DuckOS](https://github.com/DuckOS-GitHub/DuckOS)'s README page a lot.
