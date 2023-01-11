@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You may call me Anh Nguyen. Find me on Discord: `AnhNguyen#7472`
+[![Discord Presence](https://lanyard.cnrad.dev/api/624191654282395648)](https://discord.com/users/624191654282395648)
 
 🤔 Usually bored, sometimes mess around with [Geyser](https://github.com/GeyserMC/Geyser) and other stuff
 
