@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 🤔 I'm bored.
 no i'm not a catgirl (trust)
+yes i am a completely different person on discord
+no i'm not sane
 
 
 *Might as well sometimes make random stuff.*
