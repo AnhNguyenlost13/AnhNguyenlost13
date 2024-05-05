@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/624191654282395648)](https://discord.com/users/624191654282395648)
 
-🤔 I'm bored.
-no i'm not a catgirl (trust)
-yes i am a completely different person on discord
-no i'm not sane
+🤔 I'm bored.<br>
+😄 Pronouns: `he/him` or `they/them` whatever. not meow though<br>
+no i'm not a catgirl (trust)<br>
+yes i am a completely different person on discord<br>
+no i'm not sane<br>
 
 
 *Might as well sometimes make random stuff.*
