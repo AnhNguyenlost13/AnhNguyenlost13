@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 no i'm not a catgirl (trust)<br>
 yes i am a completely different person on discord<br>
 no i'm not sane<br>
-
-
-*Might as well sometimes make random stuff.*
+i should go and learn java or rust
