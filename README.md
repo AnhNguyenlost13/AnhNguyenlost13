@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Discord Presence](https://lanyard.cnrad.dev/api/624191654282395648)](https://discord.com/users/624191654282395648)
 
 🤔 I make a few [Geode](https://geode-sdk.org) mods!<br>
-😄 Use `she/they` and I will be happy.<br>
+😄 My pronouns are `she/they`.
