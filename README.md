@@ -17,9 +17,5 @@ Here are some ideas to get you started:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/624191654282395648)](https://discord.com/users/624191654282395648)
 
-🤔 I'm bored.<br>
-😄 Pronouns: `she/they`. not meow though<br>
-no i'm not a catgirl (trust)<br>
-yes i am a completely different person on discord<br>
-no i'm not sane<br>
-i should go and learn java or rust
+🤔 I make a few [Geode](https://geode-sdk.org) mods!<br>
+😄 Use `she/they` and I will be happy.<br>
